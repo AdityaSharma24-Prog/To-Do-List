@@ -51,7 +51,6 @@ _“Built with class and code.”_
 - `tasks.csv` — Stores current active tasks
 - `history.csv` — Stores deleted tasks with timestamps
 - `gui_todo.py` — Contains the entire GUI app logic
-- `to-do list.py` — Contains the base app logic
 - `test.py` — Contains the future features which later to be refined in for future versions
 
 ---
