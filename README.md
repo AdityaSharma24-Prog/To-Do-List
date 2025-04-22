@@ -4,6 +4,21 @@ A dark-themed, golden-accented To-Do List Desktop App built with Tkinter — bec
 
 ---
 
+## 👑 Created With Class and Code  
+By the **Tech Titans Project** 🛠  
+_“Built with class and code.”_
+
+---
+
+## 🤝 Collaborators
+
+- [Aditya Sharma (Team Leader)](https://github.com/AdityaSharma24-Prog)
+- [Aysuh Agarwal](https://github.com/coder-Ayush182)
+- [Chitransh](https://github.com/chitransh1942007)
+- [Ayush](https://github.com/Ayushhmishra-pro)
+
+---
+
 ## ✨ Features
 
 - **Add Tasks** ➕  
@@ -36,6 +51,8 @@ A dark-themed, golden-accented To-Do List Desktop App built with Tkinter — bec
 - `tasks.csv` — Stores current active tasks
 - `history.csv` — Stores deleted tasks with timestamps
 - `gui_todo.py` — Contains the entire GUI app logic
+- `to-do list.py` — Contains the base app logic
+- `test.py` — Contains the future features which later to be refined in for future versions
 
 ---
 
