@@ -4,7 +4,7 @@ A dark-themed, golden-accented To-Do List Desktop App built with Tkinter — bec
 
 ---
 
-## 👑 Created With Class and Code  
+## 👑 Created With Class and Code 
 By the **Tech Titans Project** 🛠  
 _“Built with class and code.”_
 
