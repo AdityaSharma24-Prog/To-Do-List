@@ -43,5 +43,5 @@ A dark-themed, golden-accented To-Do List Desktop App built with Tkinter — bec
 
 1. **Clone the repo**  
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/AdityaSharma24-Prog/To-Do-List.git
+   cd To-Do-List
