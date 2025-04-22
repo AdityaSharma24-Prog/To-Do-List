@@ -35,7 +35,7 @@ A dark-themed, golden-accented To-Do List Desktop App built with Tkinter — bec
 
 - `tasks.csv` — Stores current active tasks
 - `history.csv` — Stores deleted tasks with timestamps
-- `main.py` — Contains the entire GUI app logic
+- `gui_todo.py` — Contains the entire GUI app logic
 
 ---
 
